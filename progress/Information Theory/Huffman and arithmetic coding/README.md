@@ -1,0 +1,3 @@
+# Huffman and arithmetic coding
+
+Notes and progress for this topic go here.

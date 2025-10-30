@@ -1,6 +1,6 @@
 1. Numbers and Counting
 
-* Natural numbers
+* Natural numbers {done}
 * Whole numbers
 * Integers
 * Even and odd numbers
