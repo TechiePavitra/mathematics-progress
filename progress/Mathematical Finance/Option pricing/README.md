@@ -1,3 +1,0 @@
-# Option pricing
-
-Notes and progress for this topic go here.
